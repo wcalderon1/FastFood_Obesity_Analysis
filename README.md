@@ -2,7 +2,7 @@
 
 **Tools:** Power BI, Microsoft Excel
 **Data Sources:** Datafiniti Fast-Food Restaurants Dataset · CDC Nutrition, Physical Activity & Obesity (2023)
-**Course:** ITEC 4210 — Georgia Gwinnett College, Spring 2025
+**Course:** ITEC 4210 — Georgia Gwinnett College, Fall 2025h
 
 ---
 
@@ -85,4 +85,4 @@ FastFood_Obesity_Analysis/
 
 ---
 
-*Individual project — Wendy Calderon · Georgia Gwinnett College · Spring 2025*
+*Individual project — Wendy Calderon · Georgia Gwinnett College · Fall 2025*
